@@ -50,3 +50,10 @@ Once the inputs are provided, the program automatically:
 3. In the MATLAB Command Window, navigate to that folder:
    ```matlab
    cd 'C:\Path\To\Project'
+
+
+   > ⚠️ Academic Disclaimer  
+> This project was developed by **Andrés Felipe Porras** as part of the  
+> Modelos module at **Universidad Militar Nueva Granada (2017–2021)**.  
+> The content is shared for educational and portfolio purposes only.  
+> No proprietary or restricted university materials are included.
